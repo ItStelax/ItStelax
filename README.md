@@ -1,4 +1,4 @@
-# Hey, moi c'est Stelax 👋
+# Hi, I'm Void 👋
 
 Étudiant en développement, spécialisé JVM — autrement dit, je parle couramment Java.
 
